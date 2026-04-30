@@ -1,0 +1,56 @@
+# Node modules
+node_modules/
+
+# Build outputs
+/dist/
+/build/
+/out/
+/lib/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Runtime files
+pids
+*.pid
+*.seed
+
+# Coverage
+coverage/
+
+# Environment variables
+.env
+.env.*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+.cache/
+*.tgz
+.eslintcache
+
+# Frameworks / tools
+.next/
+.nuxt/
+.vercel/
+.serverless/
+
+# Optional: local test runner files
+.vscode-test/
